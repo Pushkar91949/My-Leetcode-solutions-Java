@@ -15,7 +15,6 @@ class Solution {
             binary.add(head.val);
             head = head.next;
         }
-        
         int ans = 0;
         Collections.reverse(binary);
         
