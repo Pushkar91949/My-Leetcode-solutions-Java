@@ -47,4 +47,4 @@ class Solution {
 
         return true;
     }
-}
+} // Question link: https://leetcode.com/problems/magic-squares-in-grid/
