@@ -20,3 +20,4 @@ class Solution {
         return s.length() - dele;
     }
 }
+// Question link: https://leetcode.com/problems/minimum-length-of-string-after-operations/
